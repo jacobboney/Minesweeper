@@ -1,6 +1,6 @@
-//
-// Created by jacob on 7/24/2021.
-//
+//Jacob Boney
+//COP 3503
+//Project 03
 
 #pragma once
 #include <vector>

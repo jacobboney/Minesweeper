@@ -1,3 +1,7 @@
+//Jacob Boney
+//COP 3503
+//Project 03
+
 #include <SFML/Graphics.hpp>
 #include "Config.h"
 #include "Tile.h"
