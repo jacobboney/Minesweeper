@@ -7,7 +7,7 @@ void checkForLeftClick(sf::Event& event, sf::RenderWindow& window, Board& board,
 void checkForRightClick(sf::Event& event, sf::RenderWindow& window, Board& board);
 void updateWindow(sf::RenderWindow& window, Board& board, bool& debug);
 
-
+//Test Change
 int main()
 {
     //Opens and set parameters for window based on config file
